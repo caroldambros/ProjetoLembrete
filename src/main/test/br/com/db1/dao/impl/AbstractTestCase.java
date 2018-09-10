@@ -1,6 +1,5 @@
 package br.com.db1.dao.impl;
 
-public class AbstractTestCase {
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

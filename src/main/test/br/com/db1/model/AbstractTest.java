@@ -7,7 +7,6 @@ import javax.persistence.Persistence;
 import org.junit.After;
 import org.junit.Before;
 
-public class AbstractTest {
 	public abstract class AbstractTest {
 		protected EntityManagerFactory factory;
 		protected EntityManager manager;
